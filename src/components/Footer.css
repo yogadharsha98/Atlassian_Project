@@ -1,0 +1,33 @@
+.footer{
+    
+    margin-top: 200px;
+    font-size: 12px;
+    background-color: #003580;
+    
+  }
+  
+  .fLists{
+    
+    margin-left: 60px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+  }
+  .flistlogo{
+    font-size: 30px;
+    margin-bottom: 20px;
+    color: white;
+  }
+
+  .fList{
+    list-style: none;
+    margin-right: 40px;
+    padding: 0;
+  }
+  
+  .fListItem{
+    margin-bottom: 15px;
+    font-size: 13px;
+    color: white;
+    cursor: pointer;
+  }
